@@ -1,3 +1,2 @@
 image:
-  name: <+pipeline.variables.imageName>
-  tag: <+pipeline.variables.imageTag>
+  name: <+artifact.image>
